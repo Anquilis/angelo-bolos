@@ -137,6 +137,10 @@ footer{
   align-items: stretch;
 }
 
+.cotdProjectImg{width:125%;}
+
+.consoleProjectImg{width:100%;}
+
 .bigProjectImg{width:80%;}
 
 .smallProjectImg{width:50%;}
